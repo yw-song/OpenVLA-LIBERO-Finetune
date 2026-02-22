@@ -77,12 +77,6 @@ GPU 占用情况：
 
 ![](assets/ScreenShot_2026-02-21_172345_913.png)
 
-## Idea
-
-1. 展示实际 LIBERO-Spatial 微调效果。
-2. 记录遇到的问题、原因及解决方法：
-   - 
-
 ## openvla 环境配置
 
 查看文件 [OpenVLA 环境配置](docs/01%20Env_Setup.md)。
